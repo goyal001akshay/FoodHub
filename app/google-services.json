@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "824961868792",
+    "firebase_url": "https://e-library-1297.firebaseio.com",
+    "project_id": "e-library-1297",
+    "storage_bucket": "e-library-1297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824961868792:android:ef9bdfe695793d22",
+        "android_client_info": {
+          "package_name": "com.androidtutorialpoint.googlemapsretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824961868792-r4dgv5mn3vst1qqpt8r8vljlgjh1g7v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6voV8Y0mADQQo9r7aMh_QAOnYU29nw_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
